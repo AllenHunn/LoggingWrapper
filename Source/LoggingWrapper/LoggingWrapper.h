@@ -1,18 +1,3 @@
-/*******************************************************************************
-*
-*	Copyright (c) 1990-2014
-*
-*	Avtec Inc.
-*	100 Innovation Place
-*	Lexington, SC 29072 USA
-*	(803) 358-3600
-*
-*	All rights reserved. Copying, compilation, modification, distribution
-*	or any other use whatsoever of this material is strictly prohibited
-*	without the written consent of Avtec Inc.
-*
-*******************************************************************************/
-
 /****************************************************************************/
 /*!
 *
